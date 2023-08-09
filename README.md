@@ -19,6 +19,7 @@ Data file's information:  training_variants (ID , Gene, Variations, Class), trai
 Example DataPoint: training_variants
 
 ID,Gene,Variation,Class
+
 0,FAM58A,Truncating Mutations,1 
 1,CBL,W802*,2 
 2,CBL,Q249E,2 
