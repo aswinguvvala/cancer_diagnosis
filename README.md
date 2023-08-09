@@ -22,6 +22,7 @@ ID,Gene,Variation,Class
 
 0,FAM58A,Truncating Mutations,1 
 
+
 1,CBL,W802*,2 
 
 2,CBL,Q249E,2 
